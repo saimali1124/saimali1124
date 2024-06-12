@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating websites since: 2020 <br>📚 I'm currently learning: Flutter<br>🎯 Goals: To become a Fullstack Developer <br>🎲 Fun fact: I can code 8 hours straight without breaks</p>
+<p align="left">✨ Creating websites since: 2020 <br>📚 I'm currently gaining proficiency in MERN<br>🎯 Goals: To become a Fullstack Developer <br>🎲 Fun fact: I can code 8 hours straight without breaks</p>
 
 ###
 
